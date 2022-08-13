@@ -1,0 +1,13 @@
+body {
+   padding: 20px;
+   text-align: center;
+   background-image: url("/img/fondo.jpeg");
+   background-size: 100%;
+   background-attachment: fixed;
+}
+
+h1 {
+   color: white;
+   font-weight: bold;
+   background-color: black;
+}
